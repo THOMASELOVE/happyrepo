@@ -3,6 +3,8 @@ Test R Markdown to Github
 Thomas E. Love
 2017-01-14
 
+Now, I'm just checking to see what I can change effectively, and quickly.
+
 R Markdown
 ----------
 
